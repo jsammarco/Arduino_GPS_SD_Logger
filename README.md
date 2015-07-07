@@ -20,7 +20,7 @@ Uses the TinyGPS++ library. So download and install that in your Arduino IDE.
 #####GPS Module (Serial/USB) ($8)
 Max. update rate. 4 Hz - Hardware Specs Below
 
-http://www.u-blox.com/images/downloads/Product_Docs/PCI-5S_Prod_Summary(GPS.G5-PS5-07000).pdf*
+http://www.u-blox.com/images/downloads/Product_Docs/PCI-5S_Prod_Summary(GPS.G5-PS5-07000).pdf
 
 [eBay Search for U-blox PCI-5S](http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.XU-blox+PCI-5S.TRS0&_nkw=U-blox+PCI-5S&_sacat=0)
 #####GPS Antenna (u.fl) ($5)
