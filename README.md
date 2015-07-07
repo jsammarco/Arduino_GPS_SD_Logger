@@ -16,8 +16,10 @@ Uses the TinyGPS++ library.
 ####Seeed W5200 Ethernet Shield (MicroSD/I2C/UART/Ethernet) ($10)
 [eBay Search for Antennas](http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313.TR0.TRC0.A0.H0.XSeeed+W5200+Ethernet+Shield.TRS5&_nkw=Seeed+W5200+Ethernet+Shield&_sacat=0)
 ####GPS Module (Serial/USB) ($8)
-Max. update rate. 4 Hz - [Summary (Hardware Specs)]("http://www.u-blox.com/images/downloads/Product_Docs/PCI-5S_Prod_Summary(GPS.G5-PS5-07000).pdf")
-[eBay Search for Antennas](http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.XU-blox+PCI-5S.TRS0&_nkw=U-blox+PCI-5S&_sacat=0)
+Max. update rate. 4 Hz
+*Hardware Specs -> http://www.u-blox.com/images/downloads/Product_Docs/PCI-5S_Prod_Summary(GPS.G5-PS5-07000).pdf*
+
+[eBay Search for U-blox PCI-5S](http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.XU-blox+PCI-5S.TRS0&_nkw=U-blox+PCI-5S&_sacat=0)
 ####GPS Antenna (u.fl) ($5)
 [eBay Search for Antennas](http://www.ebay.com/sch/i.html?_odkw=u-blox+gps+pci-5s&_sop=15&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xgps+antenna+u.fl&_nkw=gps+antenna+u.fl&_sacat=0)
 
