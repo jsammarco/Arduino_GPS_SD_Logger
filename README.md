@@ -1,5 +1,6 @@
 # Arduino GPS SD Logger
 Logging gps data with an Arduino UNO / $8 GPS Module / SD Shield with Ethernet
+![image](http://consultingjoe.com/includes/images/arduino_gps_logger.jpg)
 
 The GPS is connected with software serial over pins 2/3
 **Receive: 2
@@ -29,5 +30,3 @@ Uses the TinyGPS++ library.
 	44.988007,-93.582581,0,7/7/2015 02:47:30.00
 	44.988007,-93.582581,0,7/7/2015 02:47:31.00
 	44.988010,-93.582581,0,7/7/2015 02:47:32.00
-
-![image](http://consultingjoe.com/includes/images/arduino_gps_logger.jpg)
